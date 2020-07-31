@@ -1,4 +1,4 @@
-### About me
+# About me
 
 My name is Zeffry Reynando , you can called me zeffry. I really like making open source project , in addition to adding to my portfolio i hope my project can be useful for other developers.
 <br>
@@ -29,7 +29,8 @@ You can try my application that i have released on <a target="_blank" href="http
 </table>
 <br>
 Or you want try my another open source project not publish in Google Playstore ? This project about attendance online , i have 2 version with this project 1.Using Google Map and 2. Using Mapbox. 
-<br>
+
+<br><br>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zgramming&repo=Attendance-Application-Google-Map)](https://github.com/zgramming/Attendance-Application-Google-Map)
 
@@ -39,3 +40,11 @@ Or you want try my another open source project not publish in Google Playstore ?
 
 ![Zeffry Reynando](https://github-readme-stats.vercel.app/api?username=zgramming&show_icons=true)
 
+<br>
+
+### Where you can find me ?
+
+If you wan't to know me more , you can find me in :
+
+- <a target="_blank" href="https://www.linkedin.com/in/zeffry-reynando/"><b>LinkedIn</b></a>
+- <a target="_blank" href="https://www.instagram.com/zeffry_reynando/"><b>Instagram</b></a>
