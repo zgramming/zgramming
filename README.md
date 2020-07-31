@@ -14,7 +14,7 @@ You can try my application that i have released on <a target="_blank" href="http
 </tr>
   <tr align="center">
     <td>
-     <a target="_blank" href="https://play.google.com/store/apps/details?id=id.zeffry.debt_diary"><img src="http://www.zimprov.id/github/readme/debt_diary.png" height="50" width="50" style="border-radius:50%"></a>
+     <a target="_top" href="https://play.google.com/store/apps/details?id=id.zeffry.debt_diary"><img src="http://www.zimprov.id/github/readme/debt_diary.png" height="50" width="50" style="border-radius:50%"></a>
     </td>
     <td>
      <a target="_blank" href="https://play.google.com/store/apps/details?id=id.zeffry.voice_task_app"><img src="http://www.zimprov.id/github/readme/widt.png" height="50" width="50" style="border-radius:50%"></a>
