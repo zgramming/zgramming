@@ -6,12 +6,14 @@ You can try my application that i have released on <a target="_blank" href="http
 <br>
 
 <table>
+<thead>
 <tr>
-  <td>Debt Diary</td>
-  <td>What I Do Today</td>
-  <td>A.S.A</td>
-  <td>Peduli Utang</td>
+  <th>Debt Diary</th>
+  <th>What I Do Today</th>
+  <th>A.S.A</th>
+  <th>Peduli Utang</th>
 </tr>
+</thead>
   <tr align="center">
     <td>
      <a target="_top" href="https://play.google.com/store/apps/details?id=id.zeffry.debt_diary"><img src="http://www.zimprov.id/github/readme/debt_diary.png" height="50" width="50" style="border-radius:50%"></a>
