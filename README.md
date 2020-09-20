@@ -16,16 +16,16 @@ You can try my application that i have released on <a target="_blank" href="http
 </thead>
   <tr align="center">
     <td>
-     <a target="_top" href="https://play.google.com/store/apps/details?id=id.zeffry.debt_diary"><img src="http://www.zimprov.id/github/readme/debt_diary.png" height="50" width="50" style="border-radius:50%"></a>
+     <a target="_top" href="https://play.google.com/store/apps/details?id=id.zeffry.debt_diary"><img src="https://github.com/zgramming/Debt-Diary/blob/master/assets/images/icon-app.png" height="50" width="50" style="border-radius:50%"></a>
     </td>
     <td>
-     <a target="_blank" href="https://play.google.com/store/apps/details?id=id.zeffry.voice_task_app"><img src="http://www.zimprov.id/github/readme/widt.png" height="50" width="50" style="border-radius:50%"></a>
+     <a target="_blank" href="https://play.google.com/store/apps/details?id=id.zeffry.voice_task_app"><img src="https://github.com/zgramming/What-I-Do-Today/blob/master/assets/images/icon-app.png" height="50" width="50" style="border-radius:50%"></a>
     </td>
     <td>
-     <a target="_blank" href="https://play.google.com/store/apps/details?id=id.zeffry.atur_semua_aktifitas"><img src="http://www.zimprov.id/github/readme/asa.png" height="50" width="50" style="border-radius:50%"></a>
+     <a target="_blank" href="https://play.google.com/store/apps/details?id=id.zeffry.atur_semua_aktifitas"><img src="https://github.com/zgramming/A.S.A/blob/master/assets/images/logo.png" height="50" width="50" style="border-radius:50%"></a>
     </td>
     <td>
-     <a target="_blank" href="https://play.google.com/store/apps/details?id=reynando.zeffry.peduli_utang"><img src="http://www.zimprov.id/github/readme/peduli_utang.png" height="50" width="50" style="border-radius:50%"></a>
+     <a target="_blank" href="https://play.google.com/store/apps/details?id=reynando.zeffry.peduli_utang"><img src="https://github.com/zgramming/Peduli-Utang/blob/master/asset/images/logo_primary.png" height="50" width="50" style="border-radius:50%"></a>
     </td>
   </tr>
 </table>
