@@ -12,6 +12,7 @@ You can try my application that i have released on <a target="_blank" href="http
   <th>What I Do Today</th>
   <th>A.S.A</th>
   <th>Peduli Utang</th>
+  <th>Peduli Tugas (On-going)</th>
 </tr>
 </thead>
   <tr align="center">
@@ -26,6 +27,9 @@ You can try my application that i have released on <a target="_blank" href="http
     </td>
     <td>
      <a target="_blank" href="https://play.google.com/store/apps/details?id=reynando.zeffry.peduli_utang"><img src="https://github.com/zgramming/Peduli-Utang/blob/master/asset/images/logo_primary.png" height="50" width="50" style="border-radius:50%"></a>
+    </td>
+    <td>
+     <a target="_blank" href="?"><img src="https://github.com/zgramming/Peduli-Tugas/blob/master/asset/images/logo_peduli_tugas.png" height="50" width="50" style="border-radius:50%"></a>
     </td>
   </tr>
 </table>
