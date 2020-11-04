@@ -33,14 +33,6 @@ You can try my application that i have released on <a target="_blank" href="http
     </td>
   </tr>
 </table>
-<br>
-Or you want try my another open source project not publish in Google Playstore ? This project about attendance online , i have 2 version with this project 1.Using Google Map and 2. Using Mapbox. 
-
-<br><br>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zgramming&repo=Attendance-Application-Google-Map)](https://github.com/zgramming/Attendance-Application-Google-Map)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zgramming&repo=Attendance-Application-MapBox)](https://github.com/zgramming/Attendance-Application-MapBox)
 
 <br>
 
