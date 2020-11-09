@@ -6,16 +6,18 @@ You can try my application that i have released on <a target="_blank" href="http
 <br>
 
 <table>
-<thead>
-<tr>
-  <th>Debt Diary</th>
-  <th>What I Do Today</th>
-  <th>A.S.A</th>
-  <th>Peduli Utang</th>
-  <th>Peduli Tugas</th>
-</tr>
-</thead>
-  <tr align="center">
+  <thead>
+  <tr>
+    <th>Debt Diary</th>
+    <th>What I Do Today</th>
+    <th>A.S.A</th>
+    <th>Peduli Utang</th>
+    <th>Peduli Tugas</th>
+    <th>Kelompok Generator</th>
+  </tr>
+  </thead>
+  <tbody>
+    <tr align="center">
     <td>
      <a target="_top" href="https://play.google.com/store/apps/details?id=id.zeffry.debt_diary"><img src="https://github.com/zgramming/Debt-Diary/blob/master/assets/images/icon-app.png" height="50" width="50" style="border-radius:50%"></a>
     </td>
@@ -31,7 +33,11 @@ You can try my application that i have released on <a target="_blank" href="http
     <td>
      <a target="_blank" href="https://play.google.com/store/apps/details?id=reynando.zeffry.peduli_tugas"><img src="https://github.com/zgramming/Peduli-Tugas/blob/master/asset/images/logo_peduli_tugas.png" height="50" width="50" style="border-radius:50%"></a>
     </td>
+       <td>
+     <a target="_blank" href="https://play.google.com/store/apps/details?id=reynando.zeffry.kelompok_generator"><img src="https://github.com/zgramming/Kelompok-Generator/blob/main/assets/images/logo_transparent.png" height="50" width="50" style="border-radius:50%; "></a>
+    </td>
   </tr>
+  </tbody>
 </table>
 
 <br>
