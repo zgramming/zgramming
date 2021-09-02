@@ -25,10 +25,12 @@ You can try my application that i have released on <a target="_blank" href="http
     <a target="_blank" href="https://play.google.com/store/apps/details?id=reynando.zeffry.peduli_utang"><img src="https://github.com/zgramming/Peduli-Utang/blob/master/asset/images/logo_primary.png" height="50" width="50" style="border-radius:50%"></a>
     </td>
   </tr>
+  
  <tr>
     <th>Peduli Tugas</th>
     <th>Kelompok Generator</th>
     <th>Kalmics</th>
+   <th>Basa Basi</th>
   </tr>
   <tr align="center">
     <td>
@@ -39,6 +41,9 @@ You can try my application that i have released on <a target="_blank" href="http
     </td>
     <td>
      <a target="_blank" href="https://play.google.com/store/apps/details?id=reynando.zeffry.kalmics"><img src="https://github.com/zgramming/Kalmics/blob/main/assets/images/Kalmics.png" height="50" width="50" style="border-radius:50%; "></a>
+    </td>
+    <td>
+     <a target="_blank" href="https://play.google.com/store/apps/details?id=reynando.zeffry.basa_basi"><img src="https://github.com/zgramming/Basa-Basi/blob/main/assets/images/logo_primary.png" height="50" width="50" style="border-radius:50%; "></a>
     </td>
   </tr>
  </table>
