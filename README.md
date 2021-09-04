@@ -43,7 +43,7 @@ You can try my application that i have released on <a target="_blank" href="http
      <a target="_blank" href="https://play.google.com/store/apps/details?id=reynando.zeffry.kalmics"><img src="https://github.com/zgramming/Kalmics/blob/main/assets/images/Kalmics.png" height="50" width="50" style="border-radius:50%; "></a>
     </td>
     <td>
-     <a target="_blank" href="https://play.google.com/store/apps/details?id=reynando.zeffry.basa_basi"><img src="https://github.com/zgramming/Basa-Basi/blob/main/assets/images/logo_primary.png" height="50" width="50" style="border-radius:50%; "></a>
+     <a target="_blank" href="https://play.google.com/store/apps/details?id=zeffry.reynando.basa_basi"><img src="https://github.com/zgramming/Basa-Basi/blob/main/assets/images/logo_primary.png" height="50" width="50" style="border-radius:50%; "></a>
     </td>
   </tr>
  </table>
