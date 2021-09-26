@@ -5,12 +5,14 @@ My name is Zeffry Reynando , you can called me zeffry. I really like making open
 You can try my application that i have released on <a target="_blank" href="https://play.google.com/store/search?q=pub%3A%20Zeffry%20Reynando&c=apps"> <b>Google Playstore</b> </a> :
 <br>
 <table>
+  
   <tr>
     <th>Debt Diary</th>
     <th>What I Do Today</th>
     <th>A.S.A</th>
     <th>Peduli Utang</th>
   </tr>
+  
   <tr align="center">
     <td>
            <a target="_top" href="https://play.google.com/store/apps/details?id=id.zeffry.debt_diary"><img src="https://github.com/zgramming/Debt-Diary/blob/master/assets/images/icon-app.png" height="50" width="50" style="border-radius:50%"></a>
@@ -46,6 +48,26 @@ You can try my application that i have released on <a target="_blank" href="http
      <a target="_blank" href="https://play.google.com/store/apps/details?id=zeffry.reynando.basa_basi"><img src="https://github.com/zgramming/Basa-Basi/blob/main/assets/images/logo_primary.png" height="50" width="50" style="border-radius:50%; "></a>
     </td>
   </tr>
+  
+  <tr>
+    <th>Basa Basi Supabase</th>
+    <th>😘😘😘</th>
+    <th>😍😍😍</th>
+    <th>🥰🥰🥰</th>
+  </tr>
+  
+  <tr align="center">
+    <td>
+      <a target="_blank" href="https://play.google.com/store/apps/details?id=zeffry.reynando.basa_basi_supabase"><img src="https://github.com/zgramming/Basa-Basi-Supabase/blob/main/assets/images/logo_primary_bg.png" height="50" width="50" style="border-radius:50%"></a>
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  
+  
+  
  </table>
 
 
