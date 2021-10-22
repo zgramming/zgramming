@@ -1,6 +1,6 @@
 # About me
 
-My name is Zeffry Reynando , you can called me zeffry. I really like making open source project , in addition to adding to my portfolio i hope my project can be useful for other developers.
+I really like making open source project , in addition to adding to my portfolio i hope my project can be useful for other developers.
 <br>
 You can try my application that i have released on <a target="_blank" href="https://play.google.com/store/search?q=pub%3A%20Zeffry%20Reynando&c=apps"> <b>Google Playstore</b> </a> :
 <br>
