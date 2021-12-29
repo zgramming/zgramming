@@ -1,7 +1,7 @@
 # Welcome to my world
 
 <p align="center">
-<img src="welcome.gif" style="width:100vw;">
+<img src="welcome.gif" style="width:100vw; border-radius:50px; box-shadow:5px 5px 1px 5px rgba(255, 153, 153,.75)">
 <p>
 
 
